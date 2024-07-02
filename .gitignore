@@ -2,3 +2,11 @@
 .vscode/
 venv/
 worker-cache/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
